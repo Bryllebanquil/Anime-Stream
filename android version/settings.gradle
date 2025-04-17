@@ -1,0 +1,2 @@
+rootProject.name = "AnimeTV Mobile"
+include ':app' 

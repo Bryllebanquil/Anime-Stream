@@ -1,0 +1,13 @@
+{
+    "dest": "electron/builds/",
+    "icon": "electron/animestream.ico",
+    "noMsi":true,
+    "tags": [
+      "Video"
+    ],
+    "options":{
+      "productName":"Anime Stream",
+      "description":"Anime Stream for Windows",
+      "noMsi":true
+    }
+  }

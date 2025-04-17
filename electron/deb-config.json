@@ -1,0 +1,8 @@
+{
+  "dest": "electron/builds/",
+  "icon": "electron/animestream.png",
+  "compression": "gzip",
+  "categories": [
+    "Video"
+  ]
+}
